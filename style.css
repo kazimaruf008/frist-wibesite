@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main-div{
+   
+}
+.soto-div{
+    float: right;
+   
+}
+.soto-div ul{
+    text-align: right;
+    
+}
+.soto-div ul li{
+    display: inline-block;
+    
+}
